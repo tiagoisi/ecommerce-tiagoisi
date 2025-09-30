@@ -1,6 +1,6 @@
 # 🚀 ECOMMERCE API BACKEND | NestJS, TypeORM, PostgreSQL
 
-![Banner o Logo del Proyecto (Placeholder)](https://github.com/user-attachments/assets/974dc40e-746f-41f0-b4e6-8f1d3dec7cb8)
+![Banner o Logo del Proyecto (Placeholder)](https://github.com/user-attachments/assets/0b4d13d8-ac9c-4da8-93ce-1345eb593597)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
